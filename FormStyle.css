@@ -1,0 +1,30 @@
+header{
+    padding: 0.5% 10%;
+} 
+header:hover,#btn:hover,#main:hover{
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+body,header{
+
+    margin-left: 10%;
+    margin-right: 10%;
+}  
+#main{
+    padding: 3%;
+}
+#demo{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    column-gap: 5%;
+    row-gap: 5%;
+    padding: 5%;
+}
+#searchbar{
+    padding: 2% 10%;
+}
+#btn{
+    border: none;
+    padding: 2% 5%;
+    border-radius: 4%;
+  
+}

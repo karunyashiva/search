@@ -1,0 +1,68 @@
+{
+    "properties":[
+        {
+            "item":"1",
+            "category":"guys",
+            "imageurl":"https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0251_002123_0007600_0073_m",
+            "shortDiscription":"Yellow Chenille Pac Man Graphic Hoodie",
+            "price":"$39.99",
+            "promotions":"BUY ONE GET ONE 50% OFF"
+        },
+        {   
+            "item":"2",
+            "category":"guys",
+            "imageurl":"https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0248_002245_0008513_0010_m",
+            "shortDiscription":"White Recycle Toxic World Embroidered Tee",
+            "price":"$9.00",
+            "promotions":"OVER 40% OFF"
+        },
+        {
+            "item":"3",
+            "category":"guys",
+            "imageurl":"https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0250_002030_0007434_0010_m",
+            "shortDiscription":"White Floral Print Crew Neck Tee",
+            "price":"$9.00",
+            "promotions":"40% OFF"
+        },
+        {
+            "item":"4",
+            "category":"guys",
+            "imageurl":"https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0251_002123_0007601_0010_m",
+            "shortDiscription":"White Chenille Smurf Graphic Hoodie",
+            "price":"$39.99",
+            "promotions":"BUY ONE GET ONE 50% OFF"
+        },
+        {
+            "item":"5",
+            "category":"guys",
+            "imageurl":"https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0531_002068_0007439_0067_m",
+            "shortDiscription":"White Chenille Smurf Graphic Hoodie",
+            "price":"$39.99",
+            "promotions":"BUY ONE GET ONE 50% OFF"
+        },
+        {
+            "item":"6",
+            "category":"guys",
+            "imageurl":"https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0284_001497_0008615_0042_m",
+            "shortDiscription":"White Chenille Smurf Graphic Hoodie",
+            "price":"$39.99",
+            "promotions":"BUY ONE GET ONE 50% OFF"
+        },
+        {
+            "item":"7",
+            "category":"guys",
+            "imageurl":"https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0277_002261_0007865_0037_m",
+            "shortDiscription":"White Chenille Smurf Graphic Hoodie",
+            "price":"$39.99",
+            "promotions":"BUY ONE GET ONE 50% OFF"
+        },
+        {
+            "item":"8",
+            "category":"guys",
+            "imageurl":"https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0276_000507_0007186_0001_m",
+            "shortDiscription":"White Chenille Smurf Graphic Hoodie",
+            "price":"$39.99",
+            "promotions":"BUY ONE GET ONE 50% OFF"
+        }
+    ]
+}
